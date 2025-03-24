@@ -162,7 +162,7 @@ a {
     font-size: 22px;
     line-height: 25px;
     background-color: transparent;
-    border: 1px solid white;
+    border: 1px solid currentColor;
     color: #FFFFFF;
     text-transform: uppercase;
     z-index: 1;
@@ -322,7 +322,7 @@ a {
 
 .about__text-upper {
     margin-top: 77px;
-    margin-right: 30px;
+    margin-right: 29px;
     width: 688px;
 }
 
